@@ -22,7 +22,7 @@
   "dependencies": {
     "cli-color": "^1.1.0",
     "del": "^2.2.0",
-    "event-stream": "^3.1.7",
+    "event-stream": "3.1.7",
     "extend": "^3.0.0",
     "gulp": "github:gulpjs/gulp#89acc5c17e115ec03ec6b17341c3ffdf5e2db837",
     "gulp-cached": "^1.1.0",
